@@ -5,9 +5,11 @@
 
 ## 🛠️Skills
 
-* Languages: Python, Java, C/C++
+* Languages: Python, Java, C/C++, Scala
 * Frontend: CSS, React
 * Backend: PHP
+* System & Architecture: MIPS Assembly
+* HDL: Verilog
 
 
 ## 👨‍💻Project
