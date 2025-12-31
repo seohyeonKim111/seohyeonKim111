@@ -9,6 +9,8 @@
 * Frontend: CSS, React
 * Backend: PHP
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={seoheyonKim111(string)})](https://github.com/anuraghazra/github-readme-stats)
+
 ## 👨‍💻Project
 >### Spotify Web API 활용 음악 추천 웹사이트 제작
 - 팀원 5명, PM 1명
@@ -22,3 +24,8 @@
 - 아두이노 우노 보드 및 부저, 키패드 등 하드웨어 사용
 - 녹음, 재생, 키매핑, 뮤트모드
 - 기술 스택: C++
+
+## 📚Education
+2020.03 ~ 2020.06 성균관대학교 - 경영학과
+2021.08 ~ 2022.05 Washington State University - Computer Science
+2022.08 ~ 2025.05 State University of New York at Buffalo - B.S. in Computer Science, Minor in Mathematics
