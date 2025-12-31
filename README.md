@@ -1,5 +1,8 @@
 # Hi, there👋
 
+## 💫 About Me
+* **남에게 피해는 끼치지 말자** 라는 원칙 아래 맡은 일은 끝까지 하는 사람입니다.
+
 ## 🛠️Skills
 
 * Languages: Python, Java, C/C++
