@@ -9,7 +9,8 @@
 * Frontend: CSS, React
 * Backend: PHP
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoheyonKim111)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoheyonKim111&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 👨‍💻Project
