@@ -9,11 +9,6 @@
 * Frontend: CSS, React
 * Backend: PHP
 
-## 📚Education
-* 2020.03 ~ 2020.06 성균관대학교 - 경영학과
-* 2021.08 ~ 2022.05 Washington State University - Computer Science 
-* 2022.08 ~ 2025.05 State University of New York at Buffalo - B.S. in Computer Science, Minor in Mathematics
-
 ## 👨‍💻Project
 >### Spotify Web API 활용 음악 추천 웹사이트 제작
 - 팀원 5명, PM 1명
