@@ -2,6 +2,7 @@
 
 ## 💫 About Me
 <img src="assets/github_profile.gif" width="400" />
+
 * **남에게 피해는 끼치지 말자** 라는 원칙 아래, 맡은 일은 끝까지 책임지는 팀원이 되기를 지향합니다.
 
 ## 🛠️Skills
