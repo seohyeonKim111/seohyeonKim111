@@ -5,7 +5,7 @@
 
 ## 🛠️Skills
 
-* Languages: Python, Java, C/C++, Scala, Ocaml
+* Languages: **Python**, Java, **C/C++**, Scala, Ocaml
 * Frontend: CSS, React
 * Backend: PHP
 * System & Architecture: MIPS Assembly
