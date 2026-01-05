@@ -5,7 +5,7 @@
 
 ## 🛠️Skills
 
-* Languages: Python, Java, C/C++, Scala
+* Languages: Python, Java, C/C++, Scala, Ocaml
 * Frontend: CSS, React
 * Backend: PHP
 * System & Architecture: MIPS Assembly
@@ -22,7 +22,7 @@
 
 >### 아두이노 피아노 제작🎹
 - 팀원 2명
-- 아두이노 우노, 부저, 키패드 등 하드웨어 사용>
+- 아두이노 우노, 부저, 키패드 등 하드웨어 사용
 - 녹음, 재생, 키매핑, 뮤트모드
 - 기술 스택: C++
 
