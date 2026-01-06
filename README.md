@@ -14,7 +14,7 @@
 * HDL: Verilog
 
 
-## 👨‍💻Project
+## 👨‍💻Projects
 ### Spotify Web API 활용 음악 추천 웹사이트 제작🎵
 - 팀원 5명, PM 1명
 - OAuth 2.0 인증 연동
